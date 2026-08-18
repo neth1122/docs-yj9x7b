@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-5fiz3e.indocuan.space/sitemap.xml
